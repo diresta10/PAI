@@ -1,0 +1,17 @@
+{
+    "name": "nowak/cinema_mvc",
+    "authors": [
+        {
+            "name": "Sara Nowak",
+            "email": "nowak.es10@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
